@@ -1,0 +1,19 @@
+{
+  "lastId": 2,
+  "data": [
+    {
+      "id": 1,
+      "title": "Laptop",
+      "description": "High-end laptop with 16GB RAM",
+      "seller": "Tech Store",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "title": "Smartphone",
+      "description": "Latest model smartphone with excellent camera",
+      "seller": "Mobile World",
+      "rating": 4.7
+    }
+  ]
+}
